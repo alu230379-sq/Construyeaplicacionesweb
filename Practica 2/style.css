@@ -1,0 +1,67 @@
+#mybody {
+background-color: rgb(0, 255, 234);
+}
+#myh1{
+    color:rgb(142, 233, 233);
+    text-align: center;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#myh2{
+    color:rgb(120, 194, 255);
+    text-align: left;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#myh3{
+    color:rgb(0, 162, 255);
+    text-align: right;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#myh4{
+    color:rgb(0, 81, 255);
+    text-align: center;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#myh5{
+    color:rgb(17, 0, 255);
+    text-align: left;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#myh6{
+    color:rgb(8, 0, 124);
+    text-align: right;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#mydiv{
+    background-color: rgb(178, 255, 238);
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.biografia{
+    background-color: rgb(178, 255, 238);
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.dato{
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.etiqueta{
+    font-weight: bold;
+    color: #555;
+}
+
+.valor{
+    color: #222
+}
